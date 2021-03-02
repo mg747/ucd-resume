@@ -3,7 +3,7 @@
 /*--------------------------------------------Colors*/
 
 .bg-color-name-title {
-    background-color: #000000;
+    background-color: #5b5851;
 }
 
 .bg-color-three-reasons {
@@ -118,7 +118,7 @@ header {
 }
 
 .logo {
-    background: url("../images/rosie.jpg");
+    background: url("../images/DAE8DBB4-08BF-4FE5-84C5-5255341FC4EC_1_105_c.jpeg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -197,7 +197,7 @@ header {
 /*--------------------------------------------Footer*/
 
 footer {
-    background-color: #000000;
+    background-color: #5b5851;
     color: #fafafa;
     min-height: 120px;
     margin: 0;
